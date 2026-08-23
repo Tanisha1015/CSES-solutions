@@ -14,7 +14,7 @@ int main(){
     cin>>n; 
     long long sum = n*(n+1)/2; 
     for (int i=0; i<n-1; i++){
-        int x; 
+        long long x; 
         cin>>x; 
         sum -= x; 
     }
