@@ -27,14 +27,14 @@ int main(){
             //cout<<col<<" "; 
         }
         else{
-            int rem = x%2; 
+            int rem = y%2; 
             long long row = (long long)(y - rem - 1)*(y - rem) + y; 
             
             if (y%2 == 0){
                 num = (long long)(row - (x - 1)); 
             }
             else num = (long long)(row + (x - 1)); 
-            //cout<<col<<" "; 
+            //cout<<row<<" "; 
         }
         cout<<num<<endl; 
     }
