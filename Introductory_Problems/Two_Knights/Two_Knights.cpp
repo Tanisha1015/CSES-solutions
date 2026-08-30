@@ -26,8 +26,8 @@ int main(){
             num += (long long)(8*((x-2)*(x-2) - 2)); 
             num += (long long)(8*((x-2)*(x-2) - 3));
             if (x>6){
-                int rem = 4*(x - 6); 
-                num += (long long)(rem*((x-2)*(x-2) - 4));
+                long long rem = 4LL*(x - 6); 
+                num += rem*((long long)(x-2)*(x-2) - 4);
             }
             vec[i] = num; 
         
