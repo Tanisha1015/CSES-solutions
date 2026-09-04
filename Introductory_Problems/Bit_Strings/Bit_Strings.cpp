@@ -8,7 +8,7 @@
 #include<bits/stdc++.h> 
  
 using namespace std; 
-const long long MOD = 10e9 + 7; 
+const long long MOD = 1e9 + 7; 
  
 int main(){
     long long num = 1; 
@@ -16,9 +16,8 @@ int main(){
     cin>>n; 
     for(int i=1; i<=n; i++){
         num = (num*2); 
-        //num = num%MOD; 
+        num = num%MOD; 
     } 
-    num = num%MOD; 
     cout<<num;
     return 0; 
 }
