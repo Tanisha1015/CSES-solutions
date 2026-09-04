@@ -7,6 +7,7 @@ My accepted solutions to the [CSES Problem Set](https://cses.fi/problemset/), au
 
 | Problem | Category | Solutions |
 | :--- | :--- | :--- |
+| Two Sets | Introductory Problems | [ C++ ](https://github.com/Tanisha1015/CSES-solutions/blob/main/Introductory_Problems/Two_Sets/Two_Sets.cpp) |
 | Two Knights | Introductory Problems | [ C++ ](https://github.com/Tanisha1015/CSES-solutions/blob/main/Introductory_Problems/Two_Knights/Two_Knights.cpp) |
 | Number Spiral | Introductory Problems | [ C++ ](https://github.com/Tanisha1015/CSES-solutions/blob/main/Introductory_Problems/Number_Spiral/Number_Spiral.cpp) |
 | Permutations | Introductory Problems | [ C++ ](https://github.com/Tanisha1015/CSES-solutions/blob/main/Introductory_Problems/Permutations/Permutations.cpp) |
