@@ -16,8 +16,9 @@ int main(){
     cin>>n; 
     for(int i=1; i<=n; i++){
         num = (num*2); 
-        num = num%MOD; 
+        //num = num%MOD; 
     } 
+    num = num%MOD; 
     cout<<num;
     return 0; 
 }
